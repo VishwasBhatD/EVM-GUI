@@ -16,4 +16,4 @@ This program is developed by :
     Vishwas Bhat D - vishwasbhatd7@gmail.com
     Rohan S Khadd  - rohanskhadd@gmail.com
     Rahul Karigar  - karigarrahul@gmail.com
-(Students of Bangalore Institute of Technology, Bangalore)
+(Students of Bangalore Institute of Technology, Bangalore) 
